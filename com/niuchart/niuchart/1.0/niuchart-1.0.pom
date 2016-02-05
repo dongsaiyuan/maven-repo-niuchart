@@ -110,7 +110,7 @@
         <repository>
             <id>maven-repo-niuchart</id>
             <name>maven-repo-niuchart</name>
-            <url>https://raw.githubusercontent.com/dongsaiyuan/maven-repo-niuchart/tree/master</url>
+            <url>https://raw.githubusercontent.com/dongsaiyuan/maven-repo-niuchart/master</url>
         </repository>
     </repositories>
 </project>
